@@ -1,0 +1,5 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/8dfefdeb-4d9f-4dfd-921a-6188ed1b3ba3/resourceGroups/cats/providers/Microsoft.Web/sites/cats-slave",
+    "appService.deploySubpath": "",
+    "liveServer.settings.port": 5502
+}
