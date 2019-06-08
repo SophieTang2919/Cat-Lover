@@ -528,7 +528,7 @@ h1.logo img {
 
 .index-image {
   height: 400px;
-  background: url(../images/index-image.jpg) center center no-repeat;
+  background: url(/images/index-image.jpg) center center no-repeat;
   background-size: cover;
   /* 100% 100% 圖片會拉長 */
 }
